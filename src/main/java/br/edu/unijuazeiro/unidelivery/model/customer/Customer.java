@@ -1,4 +1,4 @@
-package br.edu.unijuazeiro.unidelivery;
+package br.edu.unijuazeiro.unidelivery.model.customer;
 
 import java.util.Properties;
 

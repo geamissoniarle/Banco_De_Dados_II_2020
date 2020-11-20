@@ -1,4 +1,4 @@
-package br.edu.unijuazeiro.unidelivery;
+package br.edu.unijuazeiro.unidelivery.model.product;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

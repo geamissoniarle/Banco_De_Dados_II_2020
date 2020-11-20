@@ -1,4 +1,4 @@
-package br.edu.unijuazeiro.unidelivery;
+package br.edu.unijuazeiro.unidelivery.model.customer;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
